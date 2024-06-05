@@ -1,2 +1,2 @@
 # Animation_Android
-Android Application with some Animated
+Android Application with some Animated efforts
